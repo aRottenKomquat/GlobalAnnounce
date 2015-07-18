@@ -1,0 +1,4 @@
+name: GlobalAnnounce
+main: org.dyndns.rottenkomquat.GlobalAnnounce
+version: 1.8.7
+author: aRottenKomquat
